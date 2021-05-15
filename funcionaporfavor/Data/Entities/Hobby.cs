@@ -8,9 +8,9 @@ namespace funcionaporfavor.Data.Entities
     public class Hobby
     {
 
-        public Guid id { get; set; }
-        public string name { get; set; }
-        public DateTime createdAt { get; set; }
-
+        public Guid Id { get; set; }
+        public string Name { get; set; }
+        public DateTime CreatedAt { get; set; }
+       
     }
 }
